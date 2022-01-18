@@ -1,5 +1,5 @@
 {
-    "name": "jbuncle/working-hours-php",
+    "name": "jbuncle/working-hours",
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^9.5",
